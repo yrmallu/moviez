@@ -24,8 +24,8 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem "redis", "~> 4.0"
-gem 'redis-rails', '~> 5.0', '>= 5.0.2'
+gem "redis"
+gem 'redis-rails'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
